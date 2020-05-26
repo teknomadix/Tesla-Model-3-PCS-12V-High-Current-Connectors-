@@ -2,10 +2,9 @@
 
 3D printable parts to connect up the Tesla Model 3 PCS designed by openinverter.org community member [_muehlpower_](https://openinverter.org/forum/viewtopic.php?f=10&t=171&start=50#p7765)  
 
-![](PCS-12HC-1.JPG)  
-![](PCS-12HC-2.JPG)  
-![](PCS-12HC-3.JPG)  
-![](PCS-12HC-4.JPG)  
+![](PCS-12HC-1.JPG) ![](PCS-12HC-2.JPG)  
+
+![](PCS-12HC-3.JPG) ![](PCS-12HC-4.JPG)  
 
 3D Prints via an online print service like https://i.materialise.com/de are around *15€** ($16.50) each.  
 
